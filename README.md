@@ -8,10 +8,6 @@ Real-time Kanban board built with:
 - Vitest
 - Playwright
 
-## Setup    this is my readme.md file and that is my folder structure and  PS C:\Users\91939\websocket-kanban> git rebase --continue
-README.md: needs merge
-You must edit all merge conflicts and then
-mark them as resolved using git add    thisi sthe error iam getting 
 ### Backend
 
 ```bash
@@ -41,3 +37,4 @@ npm run test
 ```bash
 npm run e2e
 ```
+
